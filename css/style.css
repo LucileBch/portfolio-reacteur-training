@@ -128,10 +128,16 @@ nav {
 .techno-logo {
   display: flex;
   justify-content: space-around;
+  margin: 40px 20px;
 }
 
-.logo-size {
+.logo-style {
   height: 100px;
+  width: 100px;
+  object-fit: cover;
+  border: solid 2px #5c48d2;
+  border-radius: 100%;
+  padding: 10px;
 }
 
 .projects-text {
