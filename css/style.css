@@ -114,6 +114,17 @@ nav {
 
 .about-text {
   text-align: justify;
+  margin-bottom: 70px;
+}
+
+.about-link {
+  text-decoration: none;
+  font-weight: bold;
+  color: #190f33;
+}
+
+.about-link:hover {
+  color: #5c48d2;
 }
 
 .education-text {
@@ -153,12 +164,24 @@ nav {
 
 .project-img {
   width: 500px;
+  height: 320px;
+  object-fit: fill;
   margin-right: 60px;
 }
 
 li {
   line-height: 30px;
   list-style-type: disc;
+  text-align: justify;
+}
+
+.project-link {
+  text-decoration: none;
+  color: #190f33;
+}
+
+.project-link:hover {
+  color: #5c48d2;
 }
 
 #contact {
