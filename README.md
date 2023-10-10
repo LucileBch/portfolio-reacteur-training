@@ -19,7 +19,7 @@ git clone https://github.com/LucileBch/reacteur-portfolio-training.git
 
 3. Or follow this link :
 ```bash
-xxxxx (link to be updated soon)
+https://lucilebch.github.io/portfolio-reacteur-training/
 ```
 
 
